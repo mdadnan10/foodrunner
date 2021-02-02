@@ -6,4 +6,6 @@
     <color name="white">#ffffff</color>
     <color name="cost_for_one">#e53935</color>
     <color name="black">#000000</color>
+    <color name="colorSecondary">#b58b16</color>
+    <color name="view">#CCBBBB</color>
 </resources>

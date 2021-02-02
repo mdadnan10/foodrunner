@@ -25,7 +25,7 @@
             android:title="FAQs" />
         <item
             android:id="@+id/logout"
-            android:icon="@drawable/ic_back_arrow"
+            android:icon="@drawable/ic_logout"
             android:title="Log out" />
     </group>
 </menu>

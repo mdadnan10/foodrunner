@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">FoodZest</string>
+    <string name="app_name">FoodRunner</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="ip_address">13.235.250.119</string>
-    <string name="token">26c5144c5b9c13</string>
+    <string name="token">9bf534118365f1</string>
     <string name="close_drawer">Close Drawer</string>
     <string name="open_drawer">Open Drawer</string>
     <string name="add_to_cart_btn">Add</string>
@@ -12,17 +12,23 @@
     <string name="place_order">Place Order (Rs)</string>
     <string name="shared_preferences">RestaurantPreference</string>
     <string name="your_previous_orders_are_listed_below">Your previous orders :</string>
-    <string name="question1">Q1. Why is FoodZest doing this?</string>
-    <string name="answer1">A1. At FoodZest we strive to add value to your business. We understand the challenges you face on a daily basis in sourcing the best quality packaging material. FoodZest Packaging Assist is to take care of all your packaging needs.</string>
-    <string name="question2">Q2. How are you guys different?</string>
-    <string name="answer2">A2. Best products - We only list the products which have passed our tests and are the best suitable for delivery. They will help in giving a better consumer experience, so you can get repeated orders. Best prices - We have negotiated rates with our distributors exclusive for FoodZest Restaurant. Convenience - No need to haggle for prices. No need to follow-up on delivery. We track all orders to ensure you have a hassle free experience.</string>
-    <string name="question3">Q3. Why is FoodZest doing this?</string>
-    <string name="answer3">A3. At FoodZest we strive to add value to your business. We understand the challenges you face on a daily basis in sourcing the best quality packaging material. FoodZest Packaging Assist is to take care of all your packaging needs.</string>
-    <string name="question4">Q4. How are you guys different?</string>
-    <string name="answer4">A4. Best products - We only list the products which have passed our tests and are the best suitable for delivery. They will help in giving a better consumer experience, so you can get repeated orders. Best prices - We have negotiated rates with our distributors exclusive for FoodZest Restaurant. Convenience - No need to haggle for prices. No need to follow-up on delivery. We track all orders to ensure you have a hassle free experience.</string>
+    <string name="question_one">Q.1 I don\'t remember my password?</string>
+    <string name="answer_one">A.1 You have already created an account but you can\'t remember your password? Click on \'Login/Sign Up\' at the top of the page. Then click on \'Forgot Password?\'. Fill out your phone number and a password recovery will be sent to you by phone.</string>
+    <string name="question_two">Q.2 How can I create an account?</string>
+    <string name="answer_two">A.2 Click on \'Login and Sign up\' at the top of the page. Then fill out your information in the \'Create an account\' section and click the \'Sign Up\' button. You can also create an account directly after placing an order. Your delivery address and the order details will then be saved in your account.</string>
+    <string name="question_three">Q.3 What are your delivery hours?</string>
+    <string name="answer_three">A.3 Our delivery hour is from 10:00 AM to 08:00 PM.</string>
+    <string name="question_four">Q.4 How much time it takes to deliver the order?</string>
+    <string name="answer_four">A.4 Generally it takes between 45 minutes to 1 hour time to deliver the order. Due to long distance or heavy traffic, delivery might take few extra minutes.</string>
+    <string name="question_five">Q.5 Can I order from any location?</string>
+    <string name="answer_five">A.5 We will deliver to any limited listed area of Bhubaneswar Initially, we will be serving at the main Old Bhubaneswar area and not to old Bhopal area.</string>
+    <string name="question_six">Q.6 Do you support bulk orders?</string>
+    <string name="answer_six">A.6 In order to provide all customers with a great selection and to ensure on-time delivery of your meal, we request you to order bulk quantity at least 24 hours in advance.</string>
+    <string name="question_seven">Q.7 Do I have to create an account to place an order?</string>
+    <string name="answer_seven">A.7 Creating an account is mandatory, but you can see order without having to sign up. We make sure that ordering food online at Bliss Meal delivery is quick and fuss-free. After placing your order, you will have the option of creating an account.</string>
     <string name="can_t_find_any_restaurant_with_that_name">Can\'t find any Restaurant with that name!</string>
     <string name="no_orders_placed">No Orders Placed Yet</string>
-    <string name="foodzest">FoodZest</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
 
 
 </resources>

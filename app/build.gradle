@@ -7,7 +7,7 @@ android {
     compileSdkVersion 29
     buildToolsVersion "29.0.3"
     defaultConfig {
-        applicationId "com.furiouspanda.foodzest"
+        applicationId "com.finalProject.foodRunner"
         minSdkVersion 25
         targetSdkVersion 29
         versionCode 1
